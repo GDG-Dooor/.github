@@ -1,3 +1,5 @@
+<details>
+
 <summary><b>Member</b></summary>
 
 ### Frontend
@@ -14,3 +16,5 @@
 | <img src="https://avatars.githubusercontent.com/u/175580828?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/181230186?v=4" width="150px" /> |
 | :------------------------------------------------------------------------------:  | :------------------------------------------------------------------------------:  |
 |                       [박미나](https://github.com/juiia7)                         |                      [이석환](https://github.com/seok1213)                         |
+
+</details>
